@@ -1,0 +1,2 @@
+# projects
+all bachelors projects
